@@ -54,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/guilherme-comin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>

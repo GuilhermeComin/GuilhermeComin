@@ -71,6 +71,6 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/GuilhermeComin/GuilhermeComin/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/GuilhermeComin/GuilhermeComin/output/github-contribution-grid-snake-dark.svg" />
 
 ###

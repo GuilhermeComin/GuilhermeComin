@@ -70,3 +70,7 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/GuilhermeComin/GuilhermeComin/blob/output/github-contribution-grid-snake.svg)
+
+###
